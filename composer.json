@@ -1,0 +1,15 @@
+{
+    "name": "petermolnar/wp-autositemap",
+    "description": "Automatic, dead simple sitemap.xml for WordPress",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Peter Molnar",
+            "email": "hello@petermolnar.net",
+            "homepage": "https://petermolnar.net"
+        }
+    ]
+}
